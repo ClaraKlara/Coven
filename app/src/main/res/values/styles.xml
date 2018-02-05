@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--App branding color for the app bar-->
+        <item name="colorPrimary">#9E9E9E</item>
+        <!--Darker branding for the status bar and contextual app bars-->
+        <item name="colorPrimaryDark">#616161</item>
+        <!--Theme UI controls like checkboxes and text fields-->
+        <item name="colorAccent">#DF2333</item>
+
+    </style>
+
+
+</resources>

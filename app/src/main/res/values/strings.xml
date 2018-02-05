@@ -1,0 +1,49 @@
+<resources>
+    <!--This is the Name of the app-->
+    <string name="app_name">Coven</string>
+    <!--This is the WelcomeMessage for the quiz-->
+    <string name="welcome">Welcome</string>
+    <!--This is the continued WelcomeMessage for the quiz. I use 2 strings, because I use different fonts-->
+    <string name="welcome_ctd">to the Quiz about \nCoven, Season 3 of American Horror Story.\nAre you a fan? Show me!</string>
+    <!--This is the First Question of the Quiz-->
+    <string name="question_one">1) Which mythical creature does Bastien,\nthe lover of Marie Laveau represent?</string>
+    <!--This is the First Question, RadioButton Minotaur-->
+    <string name="question_one_rb_mino">Minotaur</string>
+    <!--This is the First Question, RadioButton Pegasus-->
+    <string name="question_one_rb_pega">Pegasus</string>
+    <!--This is the First Question, RadioButton Satyr-->
+    <string name="question_one_rb_sat">Satyr</string>
+    <!--This is the Second Question of the Quiz-->
+    <string name="question_two">2) Myrtle Snow is playing a very rare instrument.\nWhat is the name of that instrument?</string>
+    <!--This is the Hint for the Second Question-->
+    <string name="instrument">Type the instrument here</string>
+    <!--This is the Second Question of the Quiz-->
+    <string name="question_three">3) Which movie made the actress, embodying Delphine LaLaurie, famous?</string>
+    <!--This is the Hint for the Third Question-->
+    <string name="movie">Type the name of the movie here</string>
+    <!--This is the Fourth Question of the Quiz-->
+    <string name="question_four">4) Fiona Goode falls in love with a character,\nwho has a real historical background.
+    Which historical character is he?</string>
+    <!--This is the Fourth Question, RadioButton Handyman-->
+    <string name="question_four_rb_handy">The Handyman</string>
+    <!--This is the Fourth Question, RadioButton Axeman-->
+    <string name="question_four_rb_axe">The Axeman</string>
+    <!--This is the First Question, RadioButton Knifeman-->
+    <string name="question_four_rb_knife">The Knifeman</string>
+    <!--This is the Fifth Question of the Quiz-->
+    <string name="question_five">5) Which is Nan’s special power?</string>
+    <!--This is the Fourth Question, RadioButton Clairvoyance-->
+    <string name="question_five_rb_clair">Clairvoyance</string>
+    <!--This is the Fourth Question, RadioButton Sight-->
+    <string name="question_five_rb_sight">Sight</string>
+    <!--This is the Fourth Question, RadioButton Resurgence-->
+    <string name="question_five_rb_resurge">Resurgence</string>
+    <!--This is the Button, which shows the result in a toast message-->
+    <string name="button_result">Show me, am I a fan?</string>
+
+    <!--This is the Button, which resets the game-->
+    <string name="button_again">Get me to the Coven once more!</string>
+
+    <!--This is the Button, which resets the game-->
+    <string name="correct">you got one point!</string>
+</resources>
